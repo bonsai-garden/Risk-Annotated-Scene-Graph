@@ -1,0 +1,10 @@
+.venv
+data/tmp/
+visual_memory/
+training_data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
