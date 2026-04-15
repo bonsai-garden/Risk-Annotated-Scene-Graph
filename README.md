@@ -1,7 +1,7 @@
-# RiskSceneGraph
-[Thesis Document](https://github.com/CoollPro/RiskSceneGraph/blob/ae78b961931b419993a733ffc2cb5dc7a7b936df/MasterThesis.pdf)
+# Risk-Annotated-Scene-Graph
+[Thesis Document](https://github.com/CoollPro/Risk-Annotated-Scene-Graph/blob/main/MasterThesis.pdf)
 
-RiskSceneGraph is a Python pipeline for building and updating a risk-aware scene graph from RGB-D data.
+Risk-Annotated-Scene-Graph is a Python pipeline for building and updating a risk-aware scene graph from RGB-D data.
 
 It combines:
 - a VLM-based scene-graph correction step,
