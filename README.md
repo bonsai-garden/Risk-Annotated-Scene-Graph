@@ -1,5 +1,5 @@
 # Risk-Annotated-Scene-Graph
-[Thesis Document](https://github.com/CoollPro/Risk-Annotated-Scene-Graph/blob/main/MasterThesis.pdf)
+[Thesis Document](https://github.com/bonsai-garden/Risk-Annotated-Scene-Graph/blob/main/MasterThesis.pdf)
 
 Risk-Annotated-Scene-Graph is a Python pipeline for building and updating a risk-aware scene graph from RGB-D data.
 
