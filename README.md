@@ -3,10 +3,7 @@
 
 ![Pipeline Diagram](assets/Pipeline.png)
 
-<video width="1920" height="1080" controls>
-  <source src="assets/example_lab.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](assets/Pipeline.png)](assets/example_lab.mp4)
 
 Risk-Annotated-Scene-Graph is a Python pipeline for building and updating a risk-aware scene graph from RGB-D data.
 
